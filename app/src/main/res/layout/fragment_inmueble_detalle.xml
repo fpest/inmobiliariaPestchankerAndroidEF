@@ -190,12 +190,12 @@
             android:id="@+id/cbDisponible"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="24dp"
-            android:layout_marginEnd="232dp"
+            android:layout_marginStart="48dp"
+            android:layout_marginTop="32dp"
             android:text="Disponible"
             android:textSize="20dp"
             android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tvUso" />
 
         <ImageView
@@ -207,6 +207,35 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/cbDisponible"
             tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tvUbicacionCartel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="200dp"
+            android:layout_marginTop="20dp"
+            android:text="Ubicación"
+            android:textAlignment="gravity"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvTipoInmueble" />
+
+        <TextView
+            android:id="@+id/tvUbicacion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginStart="200dp"
+            android:layout_marginTop="8dp"
+            android:gravity="left"
+            android:text="TextView"
+            android:textAlignment="gravity"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvUbicacionCartel" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

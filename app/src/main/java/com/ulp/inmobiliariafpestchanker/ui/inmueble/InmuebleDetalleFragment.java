@@ -53,6 +53,7 @@ public class InmuebleDetalleFragment extends Fragment {
 
                 binding.cbDisponible.setChecked(i.isDisponible());
                 binding.tvTipoInmueble.setText(i.getipoinmueble().getDescripcion());
+                binding.tvUbicacion.setText(i.getCoordenadaE() + ", " + i.getCoordenadaN());
 
                 Glide.with(root.getContext())
                         .load(i.getImagen())

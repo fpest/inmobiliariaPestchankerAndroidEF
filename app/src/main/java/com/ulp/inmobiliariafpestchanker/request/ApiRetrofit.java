@@ -29,8 +29,8 @@ import retrofit2.http.Part;
 public class ApiRetrofit {
 
   //  private static final String PATH="http://practicastuds.ulp.edu.ar/api/";
-  //private static final String PATH="http://192.168.100.4:5000/";
-  private static final String PATH="http://192.168.56.1:5000/";
+  private static final String PATH="http://192.168.100.4:5000/";
+ // private static final String PATH="http://192.168.56.1:5000/";
     private static  ServiceInmobiliaria servicioInmobiliaria;
 
     public static ServiceInmobiliaria getServiceInmobiliaria(){
