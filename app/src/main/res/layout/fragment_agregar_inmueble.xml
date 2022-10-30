@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.inmueble.Agregar_Inmueble">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/fondo_perfil"
+        android:outlineAmbientShadowColor="@color/black"
+        android:outlineProvider="background">
+
+        <TextView
+            android:id="@+id/tvInformacionInmueble"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Agregar Inmueble"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.535"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvDireccionCartel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="8dp"
+            android:text="Dirección"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvInformacionInmueble" />
+
+        <EditText
+            android:id="@+id/etDireccion"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="4dp"
+            android:ems="10"
+            android:hint="Dirección"
+            android:inputType="textPersonName"
+            app:layout_constraintStart_toEndOf="@+id/tvDireccionCartel"
+            app:layout_constraintTop_toBottomOf="@+id/tvInformacionInmueble" />
+
+        <TextView
+            android:id="@+id/tvAmbientesCartel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="8dp"
+            android:text="Ambientes"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/tvDireccionCartel"
+            app:layout_constraintTop_toBottomOf="@+id/etDireccion" />
+
+
+        <EditText
+            android:id="@+id/etCantidadAmbientes"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="4dp"
+            android:ems="10"
+            android:text="1"
+            android:inputType="number"
+            app:layout_constraintStart_toEndOf="@+id/tvDireccionCartel"
+            app:layout_constraintTop_toBottomOf="@+id/tvAmbientesCartel" />
+
+        <TextView
+            android:id="@+id/tvTipoUsoCartel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="8dp"
+            android:text="Tipo de Uso"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etDireccion" />
+
+        <EditText
+            android:id="@+id/etTipoUso"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="4dp"
+            android:ems="10"
+            android:hint="Tipo de Uso"
+            android:inputType="text"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvTipoUsoCartel" />
+
+
+        <TextView
+            android:id="@+id/tvCoordenadaN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="8dp"
+            android:text="CoordenadaN"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/tvDireccionCartel"
+            app:layout_constraintTop_toBottomOf="@+id/etCantidadAmbientes" />
+
+
+        <EditText
+            android:id="@+id/etCoordenadaN"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="4dp"
+            android:ems="10"
+            android:enabled="false"
+            android:hint="CoordenadaN"
+            android:inputType="number"
+            app:layout_constraintStart_toEndOf="@+id/tvDireccionCartel"
+            app:layout_constraintTop_toBottomOf="@+id/tvCoordenadaN" />
+
+        <TextView
+            android:id="@+id/tvCoordenadaE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="8dp"
+            android:text="CoordenadaE"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etCantidadAmbientes" />
+
+        <EditText
+            android:id="@+id/etCoordenadaE"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="4dp"
+            android:ems="10"
+            android:enabled="false"
+            android:hint="CoordenadaE"
+            android:inputType="number"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvCoordenadaE" />
+
+
+        <TextView
+            android:id="@+id/tvPrecioCartel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="8dp"
+            android:text="Precio"
+            android:textAlignment="gravity"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etCoordenadaE" />
+
+        <EditText
+            android:id="@+id/etPrecio"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="4dp"
+            android:ems="10"
+            android:text="0"
+            android:inputType="numberDecimal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvPrecioCartel" />
+
+
+        <CheckBox
+            android:id="@+id/cbDisponible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="60dp"
+            android:text="Disponible"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.24"
+            app:layout_constraintStart_toEndOf="@+id/etPrecio"
+            app:layout_constraintTop_toBottomOf="@+id/etCoordenadaE" />
+
+       <TextView
+            android:id="@+id/tvTipoInmuebleCartel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="24dp"
+            android:text="Tipo de Inmueble"
+            android:textAlignment="gravity"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etPrecio" />
+
+        <Spinner
+            android:id="@+id/spTipoInmueble"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="10dp"
+            android:spinnerMode="dropdown"
+            app:layout_constraintStart_toEndOf="@+id/tvTipoInmuebleCartel"
+            app:layout_constraintTop_toBottomOf="@+id/cbDisponible"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/ivPropiedad"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/casa"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/spTipoInmueble" />
+
+        <Button
+            android:id="@+id/btnRegistrar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Registrar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivPropiedad" />
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

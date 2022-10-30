@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.152" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/baseline_location_city_18.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/contrato.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/ic_contrato_background.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/ic_contrato_foreground.xml" value="0.147" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.152" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/ic_menu_camera.xml" value="0.152" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.152" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/inmueble.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/inmuebledos.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/logout.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/perfil.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/drawable/ubicacion.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/activity_main.xml" value="0.15217391304347827" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/cardviewcodigo.xml" value="0.11639492753623189" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/content_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/detallecontrato.xml" value="0.25" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/detalleinmueble.xml" value="0.1729957805907173" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/detalleinquilino.xml" value="0.23699421965317918" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/detallepago.xml" value="0.33" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_contrato_detalle.xml" value="0.25" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_contratos.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_inicio.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_inmueble.xml" value="0.22237665045170257" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_inmueble_detalle.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_inmuebles.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_inmuebles2.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_inquilino_detalle.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_inquilino_detalle2.xml" value="0.16847826086956522" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_inquilinos.xml" value="0.10104166666666667" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_logout.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_nav_inquilinos.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_pagos.xml" value="0.18206521739130435" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_perfil.xml" value="0.3131868131868132" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/pagocontrato.xml" value="0.33" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/layout/prueba.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/mipmap-anydpi-v26/ic_contrato.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/mipmap-anydpi-v26/ic_contrato_round.xml" value="0.1" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1285" />
+        <entry key="..\:/Federico/Luis Aversa/inmobiliariaFPestchanker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/drawable/spinercolor.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/detallecontrato.xml" value="0.16875" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/detalleinmueble.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/detalleinquilino.xml" value="0.16875" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/detallepago.xml" value="0.16875" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_agregar__inmueble.xml" value="0.25" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_agregar_inmueble.xml" value="0.2303370786516854" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_cambio_clave.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_cambio_de_clave.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_contrato_detalle.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_contratos.xml" value="0.16875" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_frangment_agregar_inmueble.xml" value="0.16875" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_inicio.xml" value="0.16875" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_inmueble.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_inmueble_detalle.xml" value="0.22" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_inmuebles.xml" value="0.18" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_inquilino_detalle.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_pagos.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_perfil.xml" value="0.5962059620596206" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/fragment_ubicacion_inmueble.xml" value="0.17119565217391305" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/itemseleccionado.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/layout/sinseleccionar.xml" value="0.1" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/menu/activity_main_drawer.xml" value="0.18854166666666666" />
+        <entry key="..\:/ProyectoLab3/Android Actual/app/src/main/res/menu/main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
